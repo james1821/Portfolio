@@ -1,0 +1,72 @@
+body{
+    background-attachment: fixed;
+background-image: url(bg.jpg);
+}
+
+.header .profile {
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 50%;
+    width: auto;
+    height: 300px                                           ;
+}
+.header h1{ 
+    color: beige;
+    font-size: 50px;
+    margin-left: 450px;
+    margin-top: -190px;
+    position: relative;
+}
+.header hr{
+    margin-top: 30px;
+   
+    height: 1px;
+}
+.intro {    
+    font-size: 30px;
+   text-align: center;
+    color: beige;
+}
+p {    
+    
+   text-align: center;
+    color: beige;
+}
+.header .con{
+
+    font-size: 30px;
+    margin-left: -250px;
+}
+.header .text{
+   margin-left: -350px;
+   margin-top: -130px;
+    font-size: 20px;
+   
+}
+
+.contacts img{
+    display: flex;
+    justify-content: space-around;
+    width: auto;
+    height: 40px;
+      margin-left: 450px;
+
+}
+
+
+.container{
+	margin: 30px;
+}
+
+.row{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+
+
+	.gallery_img{
+		margin-left: 200px;
+	}
